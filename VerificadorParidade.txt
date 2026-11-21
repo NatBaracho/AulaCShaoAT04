@@ -1,0 +1,89 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        1.408 try { . "c:\Users\natan\AppData\Local\Programs\Antigravity IDE\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+   2        0.017 cd
+   3        0.156 cd Atividades 
+   4        0.028 cd .\Atividade\AulaCShapAT03
+   5        0.045 cd .\\Atividade\AulaCShapAT03
+   6        0.013 cd .\Documents\Atividade\AulaCShapAT03
+   7        0.034 cls
+   8        1.614 dotnet build .\CalculadoraDesconto.App\CalculadoraDesconto.App.csproj;
+   9        0.213 dotnet test .\ConversorTemperatura.sln
+  10        0.222 dotnet build .\CalculadoraDesconto.sln
+  11        0.237 dotnet build .\CalculadoraDesconto.Tests.sln
+  12        0.224 dotnet build .\CalculadoraDesconto.Tests.sln
+  13        0.219 dotnet build .\CalculadoraDesconto.sln
+  14        0.125 dontnet test
+  15        0.207 dotnet build .\CalculadoraDesconto.sln
+  16        0.219 dotnet build .\CalculadoraDesconto.Tests.sln
+  17        0.002 cls
+  18        0.211 dotnet build .\CalculadoraDesconto.sln
+  19        1.785 dotnet build .\CalculadoraDesconto.sln
+  20        1.826 dotnet build .\CalculadoraDesconto.sln
+  21        1.586 dotnet build .\CalculadoraDesconto.sln;
+  22        1.473 dotnet build .\CalculadoraDesconto.sln;;
+  23        1.467 dotnet build .\CalculadoraDesconto.sln;;;
+  24        1.519 dotnet build .\CalculadoraDesconto.sln;;;;
+  25        1.818 dotnet build .\CalculadoraDesconto.sln;;;;;
+  26        1.503 dotnet build .\CalculadoraDesconto.sln;;;;;;
+  27        1.501 dotnet build .\CalculadoraDesconto.sln
+  28        1.523 dotnet build .\CalculadoraDesconto.sln;
+  29        1.688 dotnet build .\CalculadoraDesconto.sln;;
+  30        2.620 dotnet test .\CalculadoraDesconto.sln
+  31        0.060 history > CalculadoraDesconto.txt
+  32        3.130 echo "# AulaCShaoAT03" >> README.md…
+  33        0.694 git add .
+  34        0.083 git status
+  35        0.290 git commit -m "Primeiro commit CalculadoraDesconto"
+  36        4.124 git push
+  37        0.020 cd ..
+  38        0.100 mkdir AulaCShapAT04
+  39        0.018 cd .\AulaCShapAT04
+  40        0.005 cls
+  41        0.415 dotnet new sln -n VerificadorParidade --formart sln
+  42        0.498 dotnet new sln -n VerificadorParidade --format sln
+  43        1.575 dotnet new console -n VerificadorParidade.App
+  44        0.228 dotnet sln add .\VerificadorParidade.App\VefificadorParidade.App.csproj
+  45        0.583 dotnet sln add .\VerificadorParidade.App\VerificadorParidade.App.csproj
+  46        0.122 clsa
+  47        0.001 cls
+  48        3.090 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj
+  49        1.517 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj;
+  50        1.773 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj;;
+  51        0.001 cls
+  52        0.011 cls;
+  53        1.546 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj;;
+  54        1.634 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj;;;
+  55        0.001 cls
+  56        1.638 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj;;;
+  57        1.568 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj
+  58        1.602 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj
+  59        0.001 cls
+  60        1.773 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj
+  61        1.880 dotnet build .\VerificadorParidade.App\VerificadorParidade.App.csproj
+  62        2.352 dotnet new xunit -n VerificadorParidade.Test
+  63        0.236 dotnet sln add .\VerificadorParidade.Tests\VerificadorParidade.Tests.csproj
+  64        0.235 dotnet sln add .\VerificadorParidade.Tests\VerificadorParidade.Tests.csproj
+  65        0.220 dotnet sln add .\VerificadorParidade.Tests\VerificadorParidade.Tests.csproj
+  66        0.625 dotnet sln add .\VerificadorParidade.Tests\VerificadorParidade.Tests.csproj
+  67        0.001 cls
+  68        0.736 dotnet add .\VerificadorParidade.Tests\VerificadorParidade.Tests.csproj reference .\VerificadorParidade.App\VerificadorParidade.App.csproj
+  69        3.966 dotnet build .\VerificadorParidade.sln
+  70        1.736 dotnet build .\VerificadorParidade.sln;
+  71        2.042 dotnet build .\VerificadorParidade.sln;
+  72        1.714 dotnet build .\VerificadorParidade.sln;
+  73        2.181 dotnet build .\VerificadorParidade.sln;;
+  74        1.625 dotnet build .\VerificadorParidade.sln
+  75        1.580 dotnet build .\VerificadorParidade.sln
+  76        1.584 dotnet build .\VerificadorParidade.sln
+  77        2.166 dotnet build .\VerificadorParidade.sln
+  78        1.696 dotnet build .\VerificadorParidade.sln
+  79        1.664 dotnet build .\VerificadorParidade.sln;
+  80        3.580 dotnet test .\VerificadorParidade.sln…
+  81        3.085 echo "# AulaCShaoAT04" >> README.md…
+  82        0.826 git add .
+  83        0.086 git status
+  84        0.355 git commit -m "Primeiro commit VerificadorParidade.App"
+  85        4.503 git push
+

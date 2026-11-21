@@ -1,0 +1,14 @@
+C:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.AssemblyInfoInputs.cache
+C:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.AssemblyInfo.cs
+C:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.csproj.CoreCompileInputs.cache
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.exe
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.deps.json
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.runtimeconfig.json
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.dll
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.pdb
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.dll
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\refint\VerificadorParidade.App.dll
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.pdb
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.genruntimeconfig.cache
+c:\Users\natan\Documents\Atividade\AulaCShapAT04\VerificadorParidade.App\obj\Debug\net10.0\ref\VerificadorParidade.App.dll
